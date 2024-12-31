@@ -337,7 +337,7 @@ a new model is being adopted which has all the benefits of this model
 but permits dynamic expansion.
 
 Sampling model
-=========================================
+==========================================
 
 The general structure for the sampling is within Timemory (``source/timemory/sampling``).
 Currently, all sampling is done per-thread
