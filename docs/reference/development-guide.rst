@@ -384,7 +384,7 @@ has reached its limit,
 a new internal thread is created to handle the new samplers.
 
 Time-window constraint model
-========================================
+=========================================
 
 With the recent introduction of tracing delay and duration, the
 `constraint namespace <https://github.com/ROCm/rocprofiler-systems/blob/amd-staging/source/lib/core/constraint.hpp>`_
