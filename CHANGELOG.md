@@ -2,6 +2,12 @@
 
 Full documentation for ROCm Systems Profiler is available at [https://rocm.docs.amd.com/projects/rocprofiler-systems/en/latest/](https://rocm.docs.amd.com/projects/rocprofiler-systems/en/latest/).
 
+## ROCm Systems Profiler 0.1.2 for ROCm 6.3.3
+
+### Resolved issues
+
+* Fixed an error that prevented GPU hardware activity from being presented in certain workloads.
+
 ## ROCm Systems Profiler 0.1.1 for ROCm 6.3.2
 
 ### Resolved issues
